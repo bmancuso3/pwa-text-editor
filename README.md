@@ -62,7 +62,8 @@ THEN I should have proper build scripts for a webpack application
 8. MongoDB / Mongoose
 
 ## References
-1. 
+1. UTA Bootcamp curriculum, Module 19, instructor examples and student solved examples
+2. 
 
 ## Resources
 
