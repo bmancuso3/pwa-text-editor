@@ -60,15 +60,16 @@ THEN I should have proper build scripts for a webpack application
 6. React Bootstrap / Bootstrap
 7. React ChartJS / ChartJS
 8. MongoDB / Mongoose
+9. Heroku
 
 ## References
 1. UTA Bootcamp curriculum, Module 19, instructor examples and student solved examples
-2. 
 
 ## Resources
 
 ## Development Goals
-1. 
+1. Figure out why the header is not displaying
+2. Fix errors in the console
 
 ## Links
 
